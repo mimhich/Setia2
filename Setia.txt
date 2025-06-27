@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@172.166.8.137:443#Channel%3A%20%40proxy_v2ray404
-vless://OwjVpn-OwjVpn-OwjVpn@cvvmtfin.fekoli.com:2095?security=reality&encryption=none&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f2#%40OwjVpn
+vless://2b1f38ad-5bcb-4532-b91e-cd9c06a76f13@1.1.1.1:443?encryption=none&security=tls&type=ws&host=example.com&path=/test#TestNode
